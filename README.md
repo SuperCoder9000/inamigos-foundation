@@ -11,7 +11,7 @@ This webpage spreads awareness about InAmigos Foundation's NGO projects and init
 - JavaScript
 
 ## 🔗 Live Demo
-[Click here to view](https://SuperCoder9000.github.io/inamigos-foundation/inamigos_foundation.html)
+[Click here to view](https://inamigos-foundation.vercel.app)
 
 ## 📌 Sections Included
 - Hero Banner
